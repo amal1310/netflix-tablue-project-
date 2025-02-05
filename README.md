@@ -1,4 +1,4 @@
-# netflix-tablue-project-
+
 # Netflix Tableau Dashboard
 
 ## Overview
@@ -14,6 +14,16 @@ This repository contains a Tableau dashboard analyzing Netflix data. The project
 - Interactive visualizations to explore Netflix content.
 - Filters for genres, release years, and other key attributes.
 - Trend analysis of Netflix releases over time.
+  
+## Screenshots
+
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(4).png)
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(5).png)
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(6).png)
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(7).png)
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(8).png)
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(9).png)
+![](https://github.com/amal1310/netflix-tablue-project-/blob/main/Screenshot%20(10).png)
 
 ## How to Use
 1. Open the `NETFLIX.twbx` file in Tableau.
